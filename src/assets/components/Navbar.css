@@ -1,0 +1,21 @@
+nav {
+    background-color: #692222;
+    padding: 1rem;
+    text-align: center;
+    color: white;
+    
+  }
+  
+  nav .nav-link {
+    color: white;
+    text-decoration: none;
+    margin: 0.1rem;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  nav .nav-link:hover {
+    background-color: #555;
+  }
+  
